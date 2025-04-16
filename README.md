@@ -1,11 +1,14 @@
-# ASK
-## AIM:
-To simulate and visualize Amplitude Shift Keying (ASK) modulation and demodulation using a Butterworth low-pass filter for binary data.
+# EXP 5 AMPLITUDE SHIFT KEYING
+# YAGAVI P
+# 212223060308
+# WRITE A SIMPLE ASK PROGRAM USING PHYTON
+# AIM
+To perform Amplitude Shift Keying{ASK} using Python
 
-## TOOLS REQUIRED:
-Python with Numpy and Scipy
+# APPARATUS REQUIRED:
+Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 
-## PROGRAM:
+# PROGRAM
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -54,9 +57,15 @@ plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
 ```
-## OUTPUT WAVEFORM:
-![image](https://github.com/user-attachments/assets/06c45b0c-2892-4a7f-a3ee-9750d9b67c1a)
+# OUTPUT WAVEFORM
+![image](https://github.com/user-attachments/assets/314282d2-b352-4d26-872a-f8c076f807d3)
 
 
-## RESULTS:
-Thus, A python program is simulated and visualized for Amplitude Shift Keying (ASK) modulation and demodulation using a Butterworth low-pass filter for binary data.
+# Graph
+![image](https://github.com/user-attachments/assets/e1200307-9f16-4d35-9cde-3ebdc68ce1c8)
+
+
+
+# Result
+THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON.
+
