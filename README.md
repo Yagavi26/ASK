@@ -1,7 +1,6 @@
 # EXP 5 AMPLITUDE SHIFT KEYING
-# YAGAVI P
-# 212223060308
-# WRITE A SIMPLE ASK PROGRAM USING PHYTON
+
+ WRITE A SIMPLE ASK PROGRAM USING PHYTON
 # AIM
 To perform Amplitude Shift Keying{ASK} using Python
 
@@ -62,8 +61,8 @@ plt.show()
 
 
 # Graph
-![image](https://github.com/user-attachments/assets/e1200307-9f16-4d35-9cde-3ebdc68ce1c8)
 
+![image](https://github.com/user-attachments/assets/301ae2c4-ee94-4391-a599-a715dbb8dc49)
 
 
 # Result
