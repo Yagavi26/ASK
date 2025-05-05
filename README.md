@@ -58,13 +58,8 @@ plt.show()
 ```
 # OUTPUT WAVEFORM
 ![image](https://github.com/user-attachments/assets/314282d2-b352-4d26-872a-f8c076f807d3)
-
-
 # Graph
-
 ![image](https://github.com/user-attachments/assets/301ae2c4-ee94-4391-a599-a715dbb8dc49)
-
-
 # Result
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON.
 
